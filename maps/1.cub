@@ -1,0 +1,14 @@
+R 1000 750
+NO ./imgs/1.xpm
+SO ./imgs/2.xpm
+WE ./imgs/3.xpm
+EA ./imgs/5.xpm
+S ./imgs/sprite.xpm
+F 100,100,214
+C 135,197,214
+
+11111
+10001
+10001
+10W01
+11111
